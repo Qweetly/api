@@ -158,7 +158,7 @@ const APIHome: React.FC = () => {
 
           <div style={styles.footer}>
             <span style={styles.statusDot} />
-            Service operational &middot; api.qweetlystudios.workers.dev
+            Service operational &middot; api.qweetlystudios.workers.dev.
           </div>
         </div>
       </main>
